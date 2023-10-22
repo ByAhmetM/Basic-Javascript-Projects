@@ -1,5 +1,5 @@
-# JS-Basic-Todos
-JS ile oluşturulmuş basit todos uygulaması
+# JS-Loading Page
+JS ile oluşturulmuş basit loading sayfası
 
 
 <img src="todos.gif">
