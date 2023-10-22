@@ -1,5 +1,6 @@
-# JS-Remote-Calisma-Anket
-Remote Evden Çalışma Anketi
+# JS-Slider Project
+Basic JS Slider Project
+Basit Javascript Projeleri- Slider
 
 
-<img src="remote.gif">
+<img src="slider.gif">
