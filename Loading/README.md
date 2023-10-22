@@ -2,4 +2,4 @@
 JS ile oluşturulmuş basit loading sayfası
 
 
-<img src="todos.gif">
+<img src="loading.gif">
